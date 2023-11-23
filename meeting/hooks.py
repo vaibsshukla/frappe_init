@@ -1,7 +1,7 @@
 app_name = "meeting"
 app_title = "Meeting"
 app_publisher = "Vaibhav"
-app_description = "Meeting App"
+app_description = "Meeting app"
 app_email = "vaibhav.shukla@affle.com"
 app_license = "mit"
 # required_apps = []

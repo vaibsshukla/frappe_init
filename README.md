@@ -1,6 +1,6 @@
 ## Meeting
 
-Meeting App
+Meeting app
 
 #### License
 
